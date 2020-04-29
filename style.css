@@ -31,7 +31,7 @@ p {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/4.jpg');
   background-size: cover;
   background-position: center;
   padding: 150px 0;
@@ -50,7 +50,7 @@ p {
 }
 
 .button-blue {
-  background-color: #1A48E3;
+  background-color: red;
   color: white;
   padding: 16px 48px;
   border-radius: 4px;
